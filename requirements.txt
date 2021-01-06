@@ -1,3 +1,0 @@
-PyPDF2
-gtts
-streamlit ==0.73
